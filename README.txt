@@ -1,0 +1,2 @@
+Our project is needed in order to store information about students in a database with the ability to add new students and view their grades in each subject. Such a system will be useful for Universities and also for Schools. 
+Sat worked with database. Sultanbek create interface, Mansur worked with main
